@@ -45,7 +45,7 @@ public class Setting {
             return "/Maimai2Servlet/";
         }
 
-        public static String Version() {return "1.40"; }
+        public static String Version() {return "1.53"; }
     }
     public static String clientId() {
         return "A63E01E1191";
